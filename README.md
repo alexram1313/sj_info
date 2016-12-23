@@ -1,2 +1,2 @@
-# rfs-info
-Web Information about Referee Fee Splitter
+# sj-info
+Web Information about Sleep Jams
